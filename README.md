@@ -1,7 +1,9 @@
 # Sandhya Harshakumar 
-### London, United Kingdom sandhyaharsh@gmail.com
--------------------------------------------------------------
+### London, United Kingdom 
+sandhyaharsh@gmail.com
 
+
+-------------------------------------------------------------
  
 
  Summary:
@@ -13,7 +15,6 @@
 - Responsive Web design
 - UX/UI
 - Database development
-- IDEs and Version control like VS Code, DevTools, Git, Github pages etc.
 - Front-End languages and framework -  JavaScript, Python, HTML5, CSS3, vanilla JavaScript and React.
 - Building scalable network application using NodeJS
 - Understanding of front-end technologies (React.js) and back-end technologies (Node.js, Express.js, PostgreSQL).
@@ -26,6 +27,7 @@
 - Familiarity with state management libraries such as Redux.
 - HTTP and RESTful APIs design and integration.
 - Understanding of unit testing, version control and deployment process.
+- IDEs and Version control like VS Code, DevTools, Git, Github pages etc.
 
 <!---
 Sandhya80/Sandhya80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
