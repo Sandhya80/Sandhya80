@@ -15,7 +15,7 @@ sandhyaharsh@gmail.com
 - Responsive Web design
 - UX/UI
 - Database development
-- Front-End languages and framework -  JavaScript, Python, HTML5, CSS3, vanilla JavaScript and React.
+- Front-End languages and framework -  JavaScript, Python3, HTML5, CSS3, vanilla JavaScript and React.
 - Building scalable network application using NodeJS
 - Understanding of front-end technologies (React.js) and back-end technologies (Node.js, Express.js, PostgreSQL).
 - Back-End technologies and languages - Node.js and Python
@@ -28,7 +28,6 @@ sandhyaharsh@gmail.com
 - HTTP and RESTful APIs design and integration.
 - Understanding of unit testing, version control and deployment process.
 - IDEs and Version control like VS Code, DevTools, Git, Github pages etc.
-
 <!---
 Sandhya80/Sandhya80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
