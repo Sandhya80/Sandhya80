@@ -8,7 +8,7 @@ sandhyaharsh@gmail.com
 
  Summary:
  --------
- Aspiring Full-stack Engineer with novice experience building web apps using PERN tech stack( PostgreSQL, Express, React, and Node ).
+ Full-stack Engineer with experience building web apps using PERN tech stack( PostgreSQL, Express, React, and Node ).
 
  Technical Skills:
  -----------------
